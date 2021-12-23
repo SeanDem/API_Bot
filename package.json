@@ -1,0 +1,18 @@
+{
+  "name": "opensea-buy-bid-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "axios": "^0.24.0",
+    "ethers": "^5.5.2",
+    "opensea-js": "^1.2.7",
+    "readline": "^1.3.0"
+  }
+}
