@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "sean-demeritt",
+  "license": "MIT",
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.0.0",
     "axios": "^0.24.0",
