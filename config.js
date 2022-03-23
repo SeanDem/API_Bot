@@ -17,11 +17,12 @@ const config = {
 	    
 		//1
 	    //"wallet_address": "0xBeCCBBCD53Ee5f49bf63F5c1795AbBB3B6173283",
-	    //"private_key": "a00662d511330abf215cca22232fd83e0b8e016a74517ab190719fa6cb4e9ec8",
+	    //"private_key": "",
 
 		//2
 		//"wallet_address": "0x7C29Bc84cE3866c6A5ebcC932363471317B8C0EB",
-	    //"private_key": "2faacf9ea495ab972568d4b5892ba6ac127be534c6948a5c09dd3fa963c8115d",
+	    //"private_key": "
+		",
 
 		"collections": [
 						/*
